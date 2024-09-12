@@ -1,0 +1,26 @@
+.texto-header{
+    text-align: center;
+    background-image: url("vas_a_caer.jpg");
+}
+
+.contenedor-doble{
+    display: flex;
+    padding: 20px;
+    border-style: dashed;
+    border-radius: 30px;
+}
+
+.imagen-perfil{
+    height: 400px;
+    width: 400px;
+}
+
+.linea{
+    border-top: 5px;
+    border-color: black;
+}
+
+.fondo{
+    background-image: url("image.gif");
+}
+
